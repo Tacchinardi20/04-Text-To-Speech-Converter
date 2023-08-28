@@ -62,6 +62,5 @@ speechBtn.addEventListener("click", e => {
         } else {
             speechBtn.innerText = "Convert To Speech";
         }
-
     }
 });
